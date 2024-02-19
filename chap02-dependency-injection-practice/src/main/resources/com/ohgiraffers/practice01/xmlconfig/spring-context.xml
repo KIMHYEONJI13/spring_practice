@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="memberDTO" class="com.ohgiraffers.common.MemberDTO">
+        <property name="id" value="123456" />
+        <property name="nickname" value="프프프" />
+    </bean>
+    <bean id="boardDTO" class="com.ohgiraffers.common.BoardDTO">
+        <property name="id" value="1234567" />
+        <property name="title" value="도서1" />
+        <property name="content" value="책책" />
+        <property name="writer" ref="memberDTO" />
+    </bean>
+
+</beans>

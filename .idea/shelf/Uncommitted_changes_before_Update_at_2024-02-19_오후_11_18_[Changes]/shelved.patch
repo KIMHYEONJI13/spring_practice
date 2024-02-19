@@ -1,0 +1,122 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c94120f9-ba70-49bb-9f0e-21484321a633\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/spring_practice.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/build.gradle\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/gradle/wrapper/gradle-wrapper.jar\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/gradle/wrapper/gradle-wrapper.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/gradlew\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/gradlew.bat\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/settings.gradle\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/common/BoardDTO.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice01/xmlconfig/Application.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/chap01-ioc-container-practice/src/main/resources/com/ohgiraffers/practice01/xmlconfig/spring-context.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cLUbzzVjmLocg8SBshOVFoVAq3\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c94120f9-ba70-49bb-9f0e-21484321a633\" name=\"Changes\" comment=\"\" />\r\n      <created>1707890427323</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1707890427323</updated>\r\n      <workItem from=\"1707890428674\" duration=\"40000\" />\r\n      <workItem from=\"1707891797348\" duration=\"190000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 54f20da2ee9021ea268ddbb1be4b0376fab1a207)
++++ b/.idea/workspace.xml	(date 1707923019588)
+@@ -1,25 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="c94120f9-ba70-49bb-9f0e-21484321a633" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/spring_practice.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/build.gradle" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/gradlew" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/gradlew.bat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/settings.gradle" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/common/BoardDTO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice01/xmlconfig/Application.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/chap01-ioc-container-practice/src/main/resources/com/ohgiraffers/practice01/xmlconfig/spring-context.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="c94120f9-ba70-49bb-9f0e-21484321a633" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -32,18 +14,20 @@
+   &quot;associatedIndex&quot;: 0
+ }</component>
+   <component name="ProjectId" id="2cLUbzzVjmLocg8SBshOVFoVAq3" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master",
++    "kotlin-language-version-configured": "true",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -54,6 +38,7 @@
+       <updated>1707890427323</updated>
+       <workItem from="1707890428674" duration="40000" />
+       <workItem from="1707891797348" duration="190000" />
++      <workItem from="1707923000341" duration="20000" />
+     </task>
+     <servers />
+   </component>
+Index: chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.ohgiraffers.practice02.javaconfig;\r\n\r\nimport com.ohgiraffers.common.BoardDTO;\r\nimport org.springframework.context.annotation.Bean;\r\nimport org.springframework.context.annotation.Configuration;\r\n\r\n@Configuration(\"configurationPractice02\")\r\npublic class ContextConfiguration {\r\n\r\n    @Bean\r\n    public BoardDTO getBoard() {\r\n        return new BoardDTO(3L, \"도서2\", \"책책책책\", \"북북북\");\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java b/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java
+--- a/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java	(revision 54f20da2ee9021ea268ddbb1be4b0376fab1a207)
++++ b/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/ContextConfiguration.java	(date 1707923633664)
+@@ -7,7 +7,7 @@
+ @Configuration("configurationPractice02")
+ public class ContextConfiguration {
+ 
+-    @Bean
++    @Bean(name = "board")
+     public BoardDTO getBoard() {
+         return new BoardDTO(3L, "도서2", "책책책책", "북북북");
+     }
+Index: chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.ohgiraffers.practice02.javaconfig;\r\n\r\nimport org.springframework.context.ApplicationContext;\r\nimport org.springframework.context.annotation.AnnotationConfigApplicationContext;\r\n\r\npublic class Application {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        ApplicationContext context = new AnnotationConfigApplicationContext();\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java b/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java
+--- a/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java	(revision 54f20da2ee9021ea268ddbb1be4b0376fab1a207)
++++ b/chap01-ioc-container-practice/src/main/java/com/ohgiraffers/practice02/javaconfig/Application.java	(date 1707923633656)
+@@ -1,5 +1,6 @@
+ package com.ohgiraffers.practice02.javaconfig;
+ 
++import com.ohgiraffers.common.BoardDTO;
+ import org.springframework.context.ApplicationContext;
+ import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+ 
+@@ -7,7 +8,10 @@
+ 
+     public static void main(String[] args) {
+ 
+-        ApplicationContext context = new AnnotationConfigApplicationContext();
++        ApplicationContext context = new AnnotationConfigApplicationContext(ContextConfiguration.class);
+ 
++        BoardDTO boardDTO = context.getBean("board", BoardDTO.class);
++
++        System.out.println(boardDTO);
+     }
+ }
