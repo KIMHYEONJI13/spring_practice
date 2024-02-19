@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration("configurationPractice02")
 public class ContextConfiguration {
 
-    @Bean(name = "boardDTO")
+    @Bean
     public BoardDTO getBoard() {
         return new BoardDTO(3L, "도서2", "책책책책", "북북북");
     }
