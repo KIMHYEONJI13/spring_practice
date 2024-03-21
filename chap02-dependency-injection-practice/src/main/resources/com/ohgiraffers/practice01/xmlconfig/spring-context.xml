@@ -7,7 +7,7 @@
         <property name="nickname" value="프프프" />
     </bean>
     <bean id="boardDTO" class="com.ohgiraffers.common.BoardDTO">
-        <property name="id" value="1234567" />
+        <property name="id" value="123456" />
         <property name="title" value="도서1" />
         <property name="content" value="책책" />
         <property name="writer" ref="memberDTO" />
